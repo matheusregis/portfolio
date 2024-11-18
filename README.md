@@ -48,22 +48,22 @@ src/
 ## Installation
 
 1. Clone this repository:
-
+```plaintext
 git clone https://github.com/yourusername/portfolio.git
 cd portfolio
-
+```
 2. Install dependencies:
-
+```plaintext
 yarn install
-or
+# or
 npm install
-
-
+```
+```plaintext
 3. Run the development server:
 yarn start
-or
+# or
 npm start
-
+```
 4. Open http://localhost:3000 in your browser.
 
 ---
