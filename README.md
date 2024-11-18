@@ -36,7 +36,8 @@ src/
 ├── locale/          # Translation files for multi-language support
 └── App.tsx          # Main app component
 
-
+```
+---
 
 # 🚧 Development Setup
 
@@ -65,8 +66,9 @@ npm start
 
 4. Open http://localhost:3000 in your browser.
 
+---
 
-# Multi-language Support
+# 🌍 Multi-language Support
 
 This portfolio supports both English and Portuguese. You can toggle the language using the flag button in the navbar.
 
@@ -77,6 +79,7 @@ This portfolio supports both English and Portuguese. You can toggle the language
 
 To add more languages, update the locale/ directory and the react-i18next configuration.
 
+---
 
 # 🎨 Design Highlights
 
@@ -94,6 +97,7 @@ To add more languages, update the locale/ directory and the react-i18next config
 - Smooth transitions between sections.
 - Responsive layout with engaging animations.
 
+---
 
 # 🔧 Future Enhancements
 
@@ -102,7 +106,7 @@ To add more languages, update the locale/ directory and the react-i18next config
 - Improve accessibility (ARIA labels, keyboard navigation).
 - Expand portfolio sections for detailed case studies.
 
-
+---
 
 # 👨‍💻 Author
 **Matheus Régis**
