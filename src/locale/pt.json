@@ -1,0 +1,12 @@
+{
+  "translation": {
+    "hello": "OLÁ!",
+    "i am": "EU SOU O ",
+    "home": "Página Inicial",
+    "about": "Sobre mim",
+    "experiences": "Experiências",
+    "resume": "Currículo",
+    "introduce": "DEIXE-ME APRESENTAR",
+    "aboutme": "Sou apaixonado por programação e tecnologia, com experiência em frontend e backend usando <strong>{{tech}}</strong>. Me interesso por criar <span class='web'>{{webTechnologies}}</span>, explorar <span class='blockchain'>{{blockchain}}</span> e desenvolver <span class='products'>{{products}}</span>."
+  }
+}
