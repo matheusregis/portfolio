@@ -55,13 +55,13 @@ cd portfolio
 2. Install dependencies:
 
 yarn install
-# or
+or
 npm install
 
 
 3. Run the development server:
 yarn start
-# or
+or
 npm start
 
 4. Open http://localhost:3000 in your browser.
