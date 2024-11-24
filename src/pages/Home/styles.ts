@@ -72,12 +72,12 @@ export const Button = styled.button`
   animation: bounce 1s infinite;
 
   svg {
-    font-size: 4rem; /* Ajusta o tamanho do ícone */
+    font-size: 4rem; 
   }
 
   @media (max-width: 768px) {
     svg {
-      font-size: 3rem; /* Reduz o tamanho do ícone em telas menores */
+      font-size: 3rem; 
     }
   }
 `;

@@ -7,6 +7,23 @@
     "experiences": "Experiences",
     "resume": "Resume",
     "introduce": "LET ME INTRODUCE MYSELF",
-    "aboutme": "I’m passionate about programming and technology, with experience in frontend and backend development using <strong>{{tech}}</strong>. My main interests are creating <span class='web'>{{webTechnologies}}</span>, exploring <span class='blockchain'>{{blockchain}}</span>, and building <span class='products'>{{products}}</span>."
+    "aboutme": "I’m passionate about programming and technology, with experience in frontend and backend development using <strong>{{tech}}</strong>. My main interests are creating <span className='web'>{{webTechnologies}}</span>, exploring <span className='blockchain'>{{blockchain}}</span>, and building <span className='products'>{{products}}</span>.",
+    "who": "Who",
+    "i'm": "I' M",
+    "hi": "Hi, i am",
+    "from": "currently living in ",
+    "originally": "originally from ",
+    "work": "I am currently employed as a Senior Software Developer at Everon.",
+    "freelance": "I am always open to freelance opportunities or collaborations with innovative companies. Let’s connect!",
+    "graduation": "I have a Bachelor's degree in Computer Science from the Federal Institute of Santa Catarina, Campus Videira - SC.",
+    "someActivities": "Some other activities that I love to do!",
+    "games": "Playing Games",
+    "talk": "Chatting with my friends and having a beer!",
+    "brewer": "I am an enthusiast and amateur craft beer brewer.",
+    "phrase": "Great solutions come from combining passion with curiosity. I strive to create technology that simplifies lives and drives meaningful impact.",
+    "professional-skillset": "Professional Skillset",
+    "tools": "Tools I use",
+    "code": "Days I Code"
+    
   }
 }

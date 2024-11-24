@@ -7,6 +7,22 @@
     "experiences": "Experiências",
     "resume": "Currículo",
     "introduce": "DEIXE-ME APRESENTAR",
-    "aboutme": "Sou apaixonado por programação e tecnologia, com experiência em frontend e backend usando <strong>{{tech}}</strong>. Me interesso por criar <span class='web'>{{webTechnologies}}</span>, explorar <span class='blockchain'>{{blockchain}}</span> e desenvolver <span class='products'>{{products}}</span>."
+    "aboutme": "Sou apaixonado por programação e tecnologia, com experiência em frontend e backend usando <strong>{{tech}}</strong>. Me interesso por criar <span className='web'>{{webTechnologies}}</span>, explorar <span className='blockchain'>{{blockchain}}</span> e desenvolver <span className='products'>{{products}}</span>.",
+    "who": "Quem",
+    "i'm": "Sou Eu",
+    "hi": "Olá, eu sou o",
+    "from": "atualmente estou em ",
+    "originally": "e sou natural de ",
+    "work": "Atualmente trabalho como Senior Software Developer na Everon.",
+    "freelance": "Estou sempre aberto a propostas para freelas ou colaborações com empresas inovadoras. Vamos conversar!",
+    "graduation": "Sou formado em Bacharelado em Ciência da Computação pelo Instituto Federal Catarinense, Campus Videira - SC - Brasil.",
+    "someActivities": "Algumas outras atividades que eu amo fazer!",
+    "games": "Jogar jogos",
+    "talk": "Conversar com meus amigos e tomar uma cerveja!",
+    "brewer": "Apreciador e criador amador de cervejas artesanais.",
+    "phrase": "As melhores soluções surgem da combinação de paixão com curiosidade. Meu objetivo é criar tecnologias que simplifiquem vidas e gerem impacto significativo.",
+    "professional-skillset": "Habilidades Profissionais",
+    "tools": "Ferramentas que eu uso",
+    "code": "Dias que eu Codo"
   }
 }
