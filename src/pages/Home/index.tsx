@@ -5,6 +5,8 @@ import { Trans, useTranslation } from "react-i18next";
 import Type from "../../components/Type";
 import { FaArrowDown, FaArrowUp } from "react-icons/fa";
 import { useState } from "react";
+import matheusImg from '../../assets/matheus.jpg';
+import matheusImgCartoon from '../../assets/matheus-cartoon.jpg';
 
 const Home: React.FC = () => {
   const { t, i18n } = useTranslation();
@@ -67,7 +69,7 @@ const Home: React.FC = () => {
 
         <ColAntd span={12} style={{ display: "flex", justifyContent: "center" }}>
           <RoundedImage
-            src={!isExpanded ? "src/assets/matheus.jpg" : "src/assets/matheus-cartoon.jpg"}
+            src={!isExpanded ? matheusImg : matheusImgCartoon}
             width={400}
             height={400}
             alt={!isExpanded ? "Matheus" : "Matheus Cartoon"}
