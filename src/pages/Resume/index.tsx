@@ -29,7 +29,8 @@ const ResumeNew: React.FC = () => {
       <Row justify="center" className="resume">
         <Document
           file={pdf}
-          onLoadError={(error) => console.error("Error loading PDF:", error)}
+          // eslint-disable-next-line @typescript-eslint/no-explicit-any
+          onLoadError={(error: any) => console.error("Error loading PDF:", error)}
         >
           <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} canvasBackground="black"  />
         </Document>
