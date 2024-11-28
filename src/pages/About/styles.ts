@@ -40,11 +40,13 @@ export const StyledImage = styled.img`
   flex: 1;
   max-width: 40%; 
   margin-top: 40px;
+  max-height: 400px;
   height: auto;
   border-radius: 10px;
   box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);
   @media (max-width: 915px) {
     max-width: 80%; 
+    max-height: 300px;
     margin: 20px 0; 
   }
 `;
