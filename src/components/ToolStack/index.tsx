@@ -1,17 +1,13 @@
-import {
-  SiVisualstudiocode,
-  SiPostman,
-  SiSlack,
-  SiVercel,
-} from "react-icons/si";
+import ReactIcons from "react-icons/si";
+
 import { GridWrapper, IconCard, IconLabel } from "./styles";
 
 const Toolstack = () => {
   const tools = [
-    { icon: <SiVisualstudiocode />, name: "VS Code" },
-    { icon: <SiPostman />, name: "Postman" },
-    { icon: <SiSlack />, name: "Slack" },
-    { icon: <SiVercel />, name: "Vercel" },
+    { icon: <ReactIcons.SiVisualstudiocode />, name: "VS Code" },
+    { icon: <ReactIcons.SiPostman />, name: "Postman" },
+    { icon: <ReactIcons.SiSlack />, name: "Slack" },
+    { icon: <ReactIcons.SiVercel />, name: "Vercel" },
   ];
 
   return (
